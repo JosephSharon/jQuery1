@@ -1,0 +1,35 @@
+body{
+  font-family: 'Heebo', sans-serif;
+  background-color: coral;
+}
+
+img{
+  height: 200px;
+  width: auto;
+}
+
+.main{
+  display: grid;
+  align-content: center;
+  text-align: center;
+}
+
+button{
+  width: 20%;
+  margin: 10px auto;
+  background-color: blueviolet;
+  color: white;
+  height: 40px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.box{
+  background-color: white;
+  margin: 0px 30px;
+}
+
+#ingredients{
+  background-color: white;
+  margin: 10px 30px;
+}
